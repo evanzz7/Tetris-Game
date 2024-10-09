@@ -31,4 +31,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or feedback, feel free to reach out:
 
 - Email: evanzzshrestha7@ggmail.com
-- GitHub: [enanzz7](https://github.com/evanzz7)
+- GitHub: [evanzz7](https://github.com/evanzz7)
